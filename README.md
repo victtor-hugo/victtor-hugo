@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Victor Hugo
 
  <div>
-   <a href="https://github.com/Victtor-Hugo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victtor-Hugo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victtor-Hugo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/victtor-hugo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victtor-hugo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victtor-hugo&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
